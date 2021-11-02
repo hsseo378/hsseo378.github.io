@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Hae Seung Seo
+# description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /hsseo378.github.io/ #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: #hxs378@psu.edu
 
 
 highlighter: rouge
@@ -16,13 +16,13 @@ paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
-# Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+# # Social media links in footer
+# facebook: "#"
+# twitter: "#"
+# linkedin: "#"
+# github: "#"
+# researchgate: "#"
+# orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
